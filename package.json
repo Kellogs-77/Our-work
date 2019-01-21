@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gsap": "^2.0.2",
+    "popmotion": "^8.6.0",
     "react": "^16.7.0",
+    "react-addons-transition-group": "^15.6.2",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
